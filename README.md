@@ -10,7 +10,7 @@ Hi i'm alex, for Games or Computer graphics project contact me. I'll help with p
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreBillereau&theme=dracula&hide_border=true&card_width=1000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreBillereau&theme=transparent&card_width=1000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 💼 Skills
