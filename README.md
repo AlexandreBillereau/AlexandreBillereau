@@ -10,9 +10,7 @@ Hi i'm alex, for gGames or Computer graphics project contact me. I'll help with 
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreBillereau&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreBillereau&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreBillereau&theme=dracula&hide_border=true&card_width=900)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AlexandreBillereau/AlexandreBillereau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
