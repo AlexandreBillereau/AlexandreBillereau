@@ -58,6 +58,8 @@ Hi i'm alex, for Games or Computer graphics project contact me. I'll help with p
 
 3   - https://github.com/AlexandreBillereau/Exercism---Resistor-Color
 
+4   - https://github.com/AlexandreBillereau/Exercism---Health-Statistics
+
 
 <!--
 **AlexandreBillereau/AlexandreBillereau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
