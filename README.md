@@ -50,7 +50,9 @@ Hi i'm alex, for Games or Computer graphics project contact me. I'll help with p
 
 ### Challenges : 
 
-0 - https://github.com/AlexandreBillereau/Exercism---Lucian-s-Luscious-Lasagna
+0   - https://github.com/AlexandreBillereau/Exercism---Lucian-s-Luscious-Lasagna
+1   - https://github.com/AlexandreBillereau/Exercism---Assembly-Line
+2   - https://github.com/AlexandreBillereau/Exercism---Semi-Structured-Logs
 
 
 <!--
