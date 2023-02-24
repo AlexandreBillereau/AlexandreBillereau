@@ -41,6 +41,17 @@ Hi i'm alex, for Games or Computer graphics project contact me. I'll help with p
 ![](https://img.shields.io/badge/Soft-Git-green?style=flat&logo=git&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Soft-Postman-green?style=flat&logo=postman&logoColor=white&color=4AB197)
 
+---
+
+# :crab: My rust challenge :crab:
+
+### do all the challenges of the exercism site
+> https://exercism.org/profiles/intro
+
+### Challenges : 
+
+0 - https://github.com/AlexandreBillereau/Exercism---Lucian-s-Luscious-Lasagna
+
 
 <!--
 **AlexandreBillereau/AlexandreBillereau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
