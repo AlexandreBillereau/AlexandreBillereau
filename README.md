@@ -60,6 +60,10 @@ Hi i'm alex, for Games or Computer graphics project contact me. I'll help with p
 
 4   - https://github.com/AlexandreBillereau/Exercism---Health-Statistics
 
+5   - https://github.com/AlexandreBillereau/Exercism---Low-Power-Embedded-Game
+
+6   - https://github.com/AlexandreBillereau/Exercism---Role-Playing-Game
+
 
 <!--
 **AlexandreBillereau/AlexandreBillereau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
