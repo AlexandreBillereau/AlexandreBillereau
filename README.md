@@ -66,6 +66,8 @@ Hi i'm alex, for Games or Computer graphics project contact me. I'll help with p
 
 7   - https://github.com/AlexandreBillereau/Exercism---Magazine-Cutout
 
+8   - https://github.com/AlexandreBillereau/Exercism---A-Short-Fibonacci-Sequence
+
 
 <!--
 **AlexandreBillereau/AlexandreBillereau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
