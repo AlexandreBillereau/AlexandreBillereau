@@ -64,6 +64,8 @@ Hi i'm alex, for Games or Computer graphics project contact me. I'll help with p
 
 6   - https://github.com/AlexandreBillereau/Exercism---Role-Playing-Game
 
+7   - https://github.com/AlexandreBillereau/Exercism---Magazine-Cutout
+
 
 <!--
 **AlexandreBillereau/AlexandreBillereau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
