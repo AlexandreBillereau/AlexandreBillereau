@@ -70,6 +70,8 @@ Hi i'm alex, for Games or Computer graphics project contact me. I'll help with p
 
 9   - https://github.com/AlexandreBillereau/Exercisme---Calculateur-RPN
 
+10  - https://github.com/AlexandreBillereau/Exercism---Reverse-String
+
 
 <!--
 **AlexandreBillereau/AlexandreBillereau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
