@@ -72,6 +72,8 @@ Hi i'm alex, for Games or Computer graphics project contact me. I'll help with p
 
 10  - https://github.com/AlexandreBillereau/Exercism---Reverse-String
 
+11  - https://github.com/AlexandreBillereau/Exercism---Gigasecond
+
 
 <!--
 **AlexandreBillereau/AlexandreBillereau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
