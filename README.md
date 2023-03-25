@@ -74,6 +74,8 @@ Hi i'm alex, for Games or Computer graphics project contact me. I'll help with p
 
 11  - https://github.com/AlexandreBillereau/Exercism---Gigasecond
 
+12  - https://github.com/AlexandreBillereau/Exercism---Armstrong-Numbers
+
 
 <!--
 **AlexandreBillereau/AlexandreBillereau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
