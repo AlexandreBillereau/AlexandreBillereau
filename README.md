@@ -96,6 +96,8 @@ Hi i'm alex, for Games or Computer graphics project contact me. I'll help with p
 
 22 - https://github.com/AlexandreBillereau/Exercism---Raindrops
 
+23 - https://github.com/AlexandreBillereau/Exercism---Sum-of-Multiples
+
 <!--
 **AlexandreBillereau/AlexandreBillereau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
