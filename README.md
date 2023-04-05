@@ -41,6 +41,7 @@ Hi i'm alex, for Games or Computer graphics project contact me. I'll help with p
 ![](https://img.shields.io/badge/Soft-Figma-green?style=flat&logo=figma&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Soft-Git-green?style=flat&logo=git&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Soft-Postman-green?style=flat&logo=postman&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Soft-Cargo-green?style=flat&logo=cargo&logoColor=white&color=4AB197)
 
 ---
 
