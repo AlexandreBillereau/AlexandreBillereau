@@ -16,6 +16,7 @@ Hi i'm alex, for Games or Computer graphics project contact me. I'll help with p
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Rust-green?style=flat&logo=rust&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Cargo-green?style=flat&logo=Cargo&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
@@ -41,7 +42,7 @@ Hi i'm alex, for Games or Computer graphics project contact me. I'll help with p
 ![](https://img.shields.io/badge/Soft-Figma-green?style=flat&logo=figma&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Soft-Git-green?style=flat&logo=git&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Soft-Postman-green?style=flat&logo=postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Soft-Cargo-green?style=flat&logo=cargo&logoColor=white&color=4AB197)
+
 
 ---
 
