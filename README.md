@@ -49,7 +49,7 @@ Hi i'm alex, for Games or Computer graphics project contact me. I'll help with p
 # :crab: My rust challenge :crab:
 
 ### do all the challenges of the exercism site
-> [Mon profile sur exercisme](https://exercism.org/profiles/AlexandreBillereau)
+> [My profile on exercisme](https://exercism.org/profiles/AlexandreBillereau)
 
 ### Challenges : 
 
