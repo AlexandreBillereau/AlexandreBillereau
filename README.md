@@ -51,60 +51,6 @@ Hi i'm alex, for Games or Computer graphics project contact me. I'll help with p
 ### do all the challenges of the exercism site
 > [My profile on exercisme](https://exercism.org/profiles/AlexandreBillereau)
 
-### Challenges : 
-
-0   - https://github.com/AlexandreBillereau/Exercism---Lucian-s-Luscious-Lasagna
-
-1   - https://github.com/AlexandreBillereau/Exercism---Assembly-Line
-
-2   - https://github.com/AlexandreBillereau/Exercism---Semi-Structured-Logs
-
-3   - https://github.com/AlexandreBillereau/Exercism---Resistor-Color
-
-4   - https://github.com/AlexandreBillereau/Exercism---Health-Statistics
-
-5   - https://github.com/AlexandreBillereau/Exercism---Low-Power-Embedded-Game
-
-6   - https://github.com/AlexandreBillereau/Exercism---Role-Playing-Game
-
-7   - https://github.com/AlexandreBillereau/Exercism---Magazine-Cutout
-
-8   - https://github.com/AlexandreBillereau/Exercism---A-Short-Fibonacci-Sequence
-
-9   - https://github.com/AlexandreBillereau/Exercisme---Calculateur-RPN
-
-10  - https://github.com/AlexandreBillereau/Exercism---Reverse-String
-
-11  - https://github.com/AlexandreBillereau/Exercism---Gigasecond
-
-12  - https://github.com/AlexandreBillereau/Exercism---Armstrong-Numbers
-
-13  - https://github.com/AlexandreBillereau/Exercism---Beer-Song
-
-14  - https://github.com/AlexandreBillereau/Exercism---Difference-of-Squares
-
-15  - https://github.com/AlexandreBillereau/Exercism---Grains
-
-16 - https://github.com/AlexandreBillereau/Exercism---Sublist
-
-17 - https://github.com/AlexandreBillereau/Exercism---Leap
-
-18 - https://github.com/AlexandreBillereau/Exercism---Anagram
-
-19 - https://github.com/AlexandreBillereau/Exercism---Leap
-
-20 - https://github.com/AlexandreBillereau/Exercism---Prime-Factors
-
-21 - https://github.com/AlexandreBillereau/Exercism---Proverb
-
-22 - https://github.com/AlexandreBillereau/Exercism---Raindrops
-
-23 - https://github.com/AlexandreBillereau/Exercism---Sum-of-Multiples
-
-24 - https://github.com/AlexandreBillereau/Exercism---Bob
-
-25 - https://github.com/AlexandreBillereau/Exercism---High-Scores
-
 <!--
 **AlexandreBillereau/AlexandreBillereau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
