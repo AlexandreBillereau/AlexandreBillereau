@@ -21,7 +21,6 @@ Hi i'm alex, for Games or Computer graphics project contact me. I'll help with p
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C-green?style=flat&logo=c&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-NodeJs-green?style=flat&logo=node.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-NestJs-green?style=flat&logo=NestJs&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Linux-green?style=flat&logo=linux&logoColor=white&color=4AB197)
 
