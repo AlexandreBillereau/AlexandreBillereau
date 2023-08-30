@@ -16,17 +16,11 @@ Hi i'm alex, for Games or Computer graphics project contact me. I'll help with p
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Rust-green?style=flat&logo=rust&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Cargo-green?style=flat&logo=Cargo&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-green?style=flat&logo=python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C-green?style=flat&logo=c&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Flutter-green?style=flat&logo=flutter&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-NodeJs-green?style=flat&logo=node.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-NestJs-green?style=flat&logo=NestJs&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Linux-green?style=flat&logo=linux&logoColor=white&color=4AB197)
@@ -37,11 +31,9 @@ Hi i'm alex, for Games or Computer graphics project contact me. I'll help with p
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Soft-Blender-green?style=flat&logo=blender&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Soft-Godot-green?style=flat&logo=Godot-Engine&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Soft-Jira-green?style=flat&logo=jira&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Soft-Figma-green?style=flat&logo=figma&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Soft-Git-green?style=flat&logo=git&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Soft-Postman-green?style=flat&logo=postman&logoColor=white&color=4AB197)
 <!--
 **AlexandreBillereau/AlexandreBillereau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
