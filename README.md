@@ -1,6 +1,6 @@
 # Hi there 👋 😶‍🌫️
 
-i'm Alexandre Billereau and i like Rust!
+i'm Alexandre Billereau and i like Rust, JavaScript!
 
 I also work on [comment your podcast](https://www.commentyourpodcast.xyz/)
 
