@@ -1,8 +1,10 @@
-![intro](./img/intro.png)
+# Hi there 👋 😶‍🌫️
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alexandre-b-ba103b18a/)
+i'm Alexandre Billereau and i like Rust!
 
-Hi i'm alex, for Games or Computer graphics project contact me. I'll help with pleasure.
+I also work on [comment your podcast](https://www.commentyourpodcast.xyz/)
+
+Follow me if u want see the next creation with the [@chunklab](https://github.com/ChunkLab) 
 
 <br>
 
