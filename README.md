@@ -2,7 +2,7 @@
 
 i'm Alexandre Billereau and i like Rust, JavaScript!
 
-I also work on [comment your podcast](https://www.commentyourpodcast.xyz/)
+I also work on [comment your podcast](https://www.commentyourpodcast.xyz/) and the chunklab maker (npx chunklab-maker@latest)
 
 Follow me if u want see the next creation with the [@chunklab](https://github.com/ChunkLab) 
 
