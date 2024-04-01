@@ -1,11 +1,10 @@
-# Hi there 👋 😶‍🌫️
+# Hi there 👋
 
-i'm Alexandre Billereau and i like Rust, JavaScript!
+i'm Alexandre Billereau and i like Rust, JavaScript and Java!
 
-I also work on [comment your podcast](https://www.commentyourpodcast.xyz/) and the chunklab maker (npx chunklab-maker@latest)
+I also work on [ChunkBox](https://chunkbox.ca) and the chunklab maker (npx chunklab-maker@latest)
 
-Follow me if u want see the next creation with the [@chunklab](https://github.com/ChunkLab) 
-
+I also begin a game open source with phaser. (test, dev, CI/CD, community) join us on discorde :D : [game](https://github.com/AlexandreBillereau/GameBoomBoom)
 <br>
 
 ## &#x1f4c8; GitHub Stats
